@@ -8,7 +8,7 @@ public class Ejemplo {
 		// TODO Auto-generated method stub
 		System.out.print("HOLA MUNDO");
 		System.out.print("dario javier");
-		System.out.print("repaso");
+		System.out.print("repaso 12345");
 
 	}
 
